@@ -246,7 +246,7 @@ span {
   font-size: 1.6rem;
   margin: 0.3rem 0 1rem;
 }
-.portfolio-layer a {
+.portfolio-layer i {
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -255,7 +255,7 @@ span {
   background: var(--text-color);
   border-radius: 50%;
 }
-.portfolio-layer a i {
+.portfolio-layer i {
   font-size: 2rem;
   color: var(--snd-bg-color);
 }
